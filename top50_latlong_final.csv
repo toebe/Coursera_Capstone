@@ -1,0 +1,51 @@
+Annual visitor rank;Attraction;City;Country;Annual visitors (millions);latlong;radius
+50;Nagashima Spa Land;Kuwana;Japan;5.8;[35.0296052, 136.7315597];1000
+48;Universal Studios Hollywood;Los Angeles;USA;5.9;[34.13913635, -118.35427718777223];1000
+48;Palace of Versailles;Paris;France;5.9;[48.8048649, 2.1181614];1000
+47;Bourbon Street;New Orleans;USA;6;[29.9594334, -90.0649002];1000
+45;Museum of Modern Art;New York;USA;6.1;[40.761612400000004, -73.97749918210806];1000
+45;Universal Studios Orlando;Florida;USA;6.1;[28.4711958, -81.4813685];1000
+43;Lincoln Memorial;Washington;USA;6.2;[38.8893233, -77.0501211422511];1000
+43;Lake Mead;Nevada;USA;6.2;[36.217208150000005, -114.4109763071589];1000
+41;British Museum;London;England;6.7;[51.51929365, -0.12801772178494725];1000
+41;Disney Hong Kong;Hong Kong;Hong Kong;6.7;[22.313077200000002, 114.04097928858846];1000
+39;Lotte World;Seoul;South Korea;6.8;[37.51109475, 127.09824593037186];1000
+39;Everland Resort;South Korea;South Korea;6.8;[37.2936929, 127.1989925];1000
+36;National Air and Space Museum;Washington;USA;7;[38.88813505, -77.0194987456374];1000
+36;Eiffel Tower;Paris;France;7;[48.858260200000004, 2.2944990543196795];1000
+36;Victoria Peak;Hong Kong;Hong Kong;7;[22.2760386, 114.1454573];1000
+35;Ocean Park Hong Kong;Hong Kong;Hong Kong;7.4;[22.234971950000002, 114.17073378481506];1000
+34;Disney California Adventure Park;Anaheim;USA;7.7;[33.8063981, -117.91994985859614];1000
+33;Islands of Adventure, Universal;Orlando;USA;7.9;[28.471878949999997, -81.47121064527349];1000
+32;Smithsonian National Museum of History;Washington;USA;8;[38.8912727, -77.0302522];1000
+31;Sydney Opera House;Sydney;Australia;8.2;[-33.85719805, 151.21512338473752];1000
+30;Pier 39;San Francisco;USA;8.5;[37.8097854, -122.4102658];1000
+28;South Street Seaport;New York;USA;9;[40.7057752, -74.0028376];1000
+28;Great Wall of China;Beijing;China;9;[40.3555116, 116.0085921];1000
+26;Navy Pier;Chicago;USA;9.2;[41.89179985, -87.60414466382959];1000
+26;Musée du Louvre;Paris;France;9.2;[48.8611473, 2.33802768704666];1000
+25;Great Smoky Mountains National Park;Tennessee;USA;9.6;[35.5797831, -84.0930678];5000
+24;Universal Studios Japan;Osaka;Japan;9.7;[34.66620035, 135.43244659642798];1000
+22;Disney Hollywood Studios;Bay Lake;USA;9.9;[28.3851931, -81.5799957];1000
+22;Disney’s Animal Kingdom;Orlando;USA;9.9;[28.3560835, -81.6061923];1000
+20;Pike Place Market;Seattle;USA;10;[47.60939675, -122.34141017673986];1000
+20;Plaza de la Constitución;Mexico City;Mexico;10;[19.4328333, -99.13316022232087];1000
+19;Tsim Sha Tsui Promenade;Hong Kong;Hong Kong;10.1;[22.2994457, 114.1851628];1000
+18;Sacre Coeur;Paris;France;10.5;[48.88680575, 2.3430153448835087];1000
+17;Epcot Park;Orlando;USA;11;[28.374694, -81.551598];1000
+16;Disneyland Paris;Paris;France;11.2;[48.8644882, 2.7749436];1000
+15;Tokyo Disney Sea;Tokyo;Japan;12.6;[35.6267108, 139.8828839];1000
+14;Golden Gate Park;San Francisco;USA;13;[37.769368099999994, -122.48218371117709];1000
+13;Notre-Dame Cathedral;Paris;France;13.6;[48.85293705, 2.3500501225000026];1000
+12;Tokyo Disney Resort;Tokyo;Japan;14.8;[35.6318413, 139.8771483];1000
+11;Grand Bazaar;Istanbul;Turkey;15;[41.01098795, 28.968175837679787];1000
+10;Forbidden City;Beijing;China;15.3;[39.91727565, 116.39076940577283];1000
+9;Disneyland Park;Anaheim;USA;15.9;[33.813647599999996, -117.91971592742885];1000
+8;Walt Disney World Magic Kingdom;Orlando;USA;17.5;[28.4030829, -81.5933782];1000
+7;Faneuil Hall;Boston;USA;18;[42.3600335, -71.05623415];1000
+6;Grand Central Station;New York;USA;21.6;[40.752701200000004, -73.97724987363358];1000
+5;Niagara Falls;USA and Canada;USA, Canada;22.5;[43.0538467,-79.2284598];5000
+4;Union Station;Washington;USA;32.8;[47.59866675, -122.32853854452962];1000
+3;Central Park;New York;USA;37.5;[40.7827725, -73.9653627406542];1000
+2;Times Square;New York;USA;39.2;[40.757280550000004, -73.98585503545917];1000
+1;The Strip;Las Vegas;USA;39.6;[36.112665, -115.173052];1000
